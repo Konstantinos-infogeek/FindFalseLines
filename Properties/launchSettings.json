@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FindFalseLines": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\silve\\OneDrive\\Υπολογιστής\\test.txt"
+    }
+  }
+}
